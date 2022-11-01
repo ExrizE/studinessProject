@@ -5,12 +5,13 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Studi_logo.svg/2560px-Studi_logo.svg.png" width="163px" />](https://www.studi.com/fr)
 
 **Deploy instructions**
-
-creat .env file with variables
-/client/ > npm run build
-copy /client/build
-paste in /server/public/
-/server/ > npm start
+<br/><br/>
+creat .env file with variables <br/>
+/client/ > npm run build<br/>
+copy /client/build<br/>
+paste in /server/public/<br/>
+/server/ > npm start<br/>
+<br/><br/><br/>
 
 **Description:**
 
